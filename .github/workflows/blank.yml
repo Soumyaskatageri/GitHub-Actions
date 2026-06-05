@@ -3,7 +3,7 @@ name: Python Demo
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   print-message:
